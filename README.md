@@ -6,4 +6,5 @@ Task 1: Prediction using Supervised ML
 
 For this task, we need to apply Linear Regression for predicting a student's percentage based on the number of study hours.
 
-Data Source:http://bit.ly/w-data
+
+[sparks internship certificate.pdf](https://github.com/user-attachments/files/21854326/sparks.internship.certificate.pdf)
